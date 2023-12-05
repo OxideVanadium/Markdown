@@ -62,3 +62,8 @@ console.log("hola mundo")
 [Periodico El Pais](https://elpais.com/ "Periodico chachi")
 
 <!-- Accesso a imagenes -->
+![visual studio logo](https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png 'Logo Visual studio')
+
+*[X] Tarea 1
+*[X] Tarea 2
+*[X] Tarea 3
